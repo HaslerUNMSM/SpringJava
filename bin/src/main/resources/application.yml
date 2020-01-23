@@ -1,0 +1,4 @@
+spring:
+  banner:    location: classpath:banner/banner.txt
+    
+server:  error:    whitelabel:      enabled: false
