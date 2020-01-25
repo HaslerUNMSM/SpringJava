@@ -18,7 +18,6 @@ public class ExampleComponent {
 	private CategoriaJpaRepository categoriaJpaRepository;
 	
 	public void sayHello() {
-		//categoriaJpaRepository.findById(1);
 		LOG.info("HELLO EXAMPLE COMPONENT");
 	}
 }
