@@ -41,4 +41,17 @@ public class ContactoServiceImpl implements ContactoService{
 		}
 		return contactosModels;
 	}
+
+	@Override
+	public Contacto findContactById(int id) {
+		return contactoRepository.findById(id);
+	}
+
+	@Override
+	public void removeContact(int id) {
+		Contacto contacto = findContactById(id);
+		if(null != contacto) {
+			contactoRepository.delete(contacto);
+		}
+	}
 }
