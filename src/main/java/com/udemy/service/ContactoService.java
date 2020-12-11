@@ -11,5 +11,5 @@ public interface ContactoService {
 	public abstract List<ContactoModel> ListaContacto();
 	public abstract Contacto findContactById(int id);
 	public abstract void removeContact(int id);
-	
+	public abstract ContactoModel findContactByIdModel(int id);
 }

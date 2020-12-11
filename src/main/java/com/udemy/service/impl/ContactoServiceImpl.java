@@ -54,4 +54,11 @@ public class ContactoServiceImpl implements ContactoService{
 			contactoRepository.delete(contacto);
 		}
 	}
+
+	@Override
+	public ContactoModel findContactByIdModel(int id) {
+		Contacto contacto = findContactById(id);
+		ContactoModel contactoModel = contactoConverter.entity2model(contacto);
+		return contactoModel;
+	}
 }

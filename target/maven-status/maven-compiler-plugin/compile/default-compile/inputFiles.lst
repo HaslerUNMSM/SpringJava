@@ -1,37 +1,29 @@
-D:\SpringJava\src\main\java\com\udemy\component\ExampleComponent.java
-D:\SpringJava\src\main\java\com\udemy\repository\CategoriaJpaRepository.java
-D:\SpringJava\src\main\java\com\udemy\service\CategoriaService.java
-D:\SpringJava\src\main\java\com\udemy\service\impl\ExampleServiceImpl.java
-D:\SpringJava\src\main\java\com\udemy\BackendninjaApplication.java
-D:\SpringJava\src\main\java\com\udemy\entity\Contacto.java
-D:\SpringJava\src\main\java\com\udemy\service\ExampleService.java
-D:\SpringJava\src\main\java\com\udemy\converter\ContactoConverter.java
-D:\SpringJava\src\main\java\com\udemy\repository\ContactoRepository.java
-D:\SpringJava\src\main\java\com\udemy\service\impl\CategoriaServiceImpl.java
-D:\SpringJava\src\main\java\com\udemy\configuration\WebMvcConfiguration.java
-D:\SpringJava\target\generated-sources\java\com\udemy\entity\QUserRole.java
-D:\SpringJava\src\main\java\com\udemy\controller\HelloController.java
-D:\SpringJava\src\main\java\com\udemy\model\ContactoModel.java
-D:\SpringJava\src\main\java\com\udemy\service\ContactoService.java
-D:\SpringJava\src\main\java\com\udemy\repository\UserRepository.java
-D:\SpringJava\src\main\java\com\udemy\service\impl\UserService.java
-D:\SpringJava\target\generated-sources\java\com\udemy\entity\QContacto.java
-D:\SpringJava\src\main\java\com\udemy\model\CredencialModel.java
-D:\SpringJava\src\main\java\com\udemy\entity\User.java
-D:\SpringJava\src\main\java\com\udemy\controller\ExceptionController.java
-D:\SpringJava\src\main\java\com\udemy\controller\Hello2Controller.java
-D:\SpringJava\src\main\java\com\udemy\component\RequestTimeInterceptor.java
-D:\SpringJava\src\main\java\com\udemy\repository\QueryDLSRepository.java
-D:\SpringJava\src\main\java\com\udemy\controller\CategoriaController.java
-D:\SpringJava\src\main\java\com\udemy\entity\Categoria.java
-D:\SpringJava\src\main\java\com\udemy\model\Person.java
-D:\SpringJava\src\main\java\com\udemy\constant\ViewConstant.java
-D:\SpringJava\src\main\java\com\udemy\controller\LoginController.java
-D:\SpringJava\src\main\java\com\udemy\controller\ContactoController.java
-D:\SpringJava\src\main\java\com\udemy\controller\Hello3Controller.java
-D:\SpringJava\src\main\java\com\udemy\entity\UserRole.java
-D:\SpringJava\src\main\java\com\udemy\converter\CategoriaConverter.java
-D:\SpringJava\target\generated-sources\java\com\udemy\entity\QUser.java
-D:\SpringJava\src\main\java\com\udemy\service\impl\ContactoServiceImpl.java
-D:\SpringJava\target\generated-sources\java\com\udemy\entity\QCategoria.java
-D:\SpringJava\src\main\java\com\udemy\model\CategoriaModel.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\target\generated-sources\java\com\udemy\entity\QUserRole.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\controller\CategoriaController.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\controller\ExceptionController.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\controller\LoginController.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\service\impl\UserService.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\service\ContactoService.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\component\RequestTimeInterceptor.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\model\CategoriaModel.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\model\ContactoModel.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\service\impl\CategoriaServiceImpl.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\converter\ContactoConverter.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\target\generated-sources\java\com\udemy\entity\QContacto.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\target\generated-sources\java\com\udemy\entity\QCategoria.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\BackendninjaApplication.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\entity\Contacto.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\model\CredencialModel.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\constant\ViewConstant.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\target\generated-sources\java\com\udemy\entity\QUser.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\service\CategoriaService.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\repository\CategoriaJpaRepository.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\entity\User.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\configuration\WebMvcConfiguration.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\converter\CategoriaConverter.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\entity\Categoria.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\controller\ContactoController.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\repository\UserRepository.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\entity\UserRole.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\repository\ContactoRepository.java
+C:\Users\Hasler\Documents\UNMSM\EXTERNOS\Proyectos Spring\BackendNinja\SpringJava\src\main\java\com\udemy\service\impl\ContactoServiceImpl.java

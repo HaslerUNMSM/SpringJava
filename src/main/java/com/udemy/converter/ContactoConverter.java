@@ -11,6 +11,7 @@ public class ContactoConverter {
 	// entity --> model
 	public ContactoModel entity2model(Contacto contacto) {
 		ContactoModel contactoModel = new ContactoModel();
+		contactoModel.setId(contacto.getId());
 		contactoModel.setFirstname(contacto.getFirstname());
 		contactoModel.setLastname(contacto.getLastname());
 		contactoModel.setTelephone(contacto.getTelephone());
@@ -21,6 +22,7 @@ public class ContactoConverter {
 	// model --> entity
 	public Contacto model2entity(ContactoModel contactoModel) {
 		Contacto contacto  = new Contacto();
+		contacto.setId(contactoModel.getId());
 		contacto.setFirstname(contactoModel.getFirstname());
 		contacto.setLastname(contactoModel.getLastname());
 		contacto.setTelephone(contactoModel.getTelephone());
