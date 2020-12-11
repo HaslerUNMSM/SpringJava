@@ -6,4 +6,4 @@ Aplicacion Web con MySQL utilizando:
 - Thymeleaf (Motor de plantillas)
 
 Para correr la aplicacion:
--Crear una bd con nombre "restaurante"
+Crear una bd con nombre "contactos"
